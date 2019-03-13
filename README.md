@@ -31,8 +31,7 @@ You can edit out output pins in blynk as we are virtually writing data on blynk
 
 Schematic is as follow 
 
-<p align="center">
-  <img src="https://github.com/4vedi/VOICE-CONTROLLED-HOME-AUTOMATION/Schematic.JPG" width="350" title="hover text">
+![alt](https://github.com/AnshumanFauzdar/Home-Automation-Blynk/raw/master/Schematic.JPG)
   
 
 
