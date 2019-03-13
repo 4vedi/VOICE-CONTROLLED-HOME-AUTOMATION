@@ -28,7 +28,7 @@ Here you can check how to set up an IFTTT account -  "https://ifttt.com"
 
  # Configuring Blynk and IFTTT
  
- After setting up your Blynk account create a new button 
+ After setting up your Blynk account create a new button. You can directly turn on or off with this button(your appliance should be connected to d1 port . Note: d1 differs for Arduino Uno and Nodemcu soit needs to be converted as we are working on Nodemcu.) 
  
  ![alt](https://github.com/4vedi/VOICE-CONTROLLED-HOME-AUTOMATION/blob/master/Screenshot_2019-03-13-23-54-21-841_cc.blynk.png?raw=true)
 
