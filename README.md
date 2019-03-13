@@ -26,6 +26,13 @@ Detailed Blynk Tutorials - "https://www.youtube.com/channel/UCKWBP3MdpMQFdOCQ63m
 Here you can check how to set up an IFTTT account -  "https://ifttt.com"
 
 
+ # Configuring Blynk and IFTTT
+ 
+ After setting up your Blynk account create a new button 
+ 
+ ![alt](https://github.com/4vedi/VOICE-CONTROLLED-HOME-AUTOMATION/blob/master/Screenshot_2019-03-13-23-54-21-841_cc.blynk.png?raw=true)
+
+
 # Preparing Your Circuit
 
 Keep everyting handy and follow the schematic diagram as shown below
