@@ -23,6 +23,9 @@ Flash "https://github.com/4vedi/VOICE-CONTROLLED-HOME-AUTOMATION/Arduino-ESP8266
 
 Detailed Blynk Tutorials - "https://www.youtube.com/channel/UCKWBP3MdpMQFdOCQ63mhC_Q"
 
+Here you can check how to set up an IFTTT account -  "https://ifttt.com"
+
+
 # Preparing Your Circuit
 
 Keep everyting handy and follow the schematic diagram as shown below
@@ -32,6 +35,15 @@ You can edit out output pins in blynk as we are virtually writing data on blynk
 Schematic is as follow 
 
 ![alt](https://github.com/4vedi/VOICE-CONTROLLED-HOME-AUTOMATION/blob/master/Schematic.JPG?raw=true)
+
+# CONCLUSION:
+
+
+This is very DIY project and can help in controlling your home even when you are far away from home You can add as many connections as much your controller allows! If you want to control only in local wifi, then I also have web server code lemme know I will upload that also
+
+If you are facing any problem in connections or flashing any code, feel free to mail me (22yashchaturvedi@gmail.com)
+
+
   
 
 
