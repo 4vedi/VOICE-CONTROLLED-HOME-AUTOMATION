@@ -13,6 +13,7 @@ Home automation is part of "The Internet of Things," also known as IoT. The way 
 7. 12v powersupply (Any 12v prefered more than 1A like LED Strip Driver)
 8. Connecting wires, jumper wires, screw drivers.
 9. LEDS, BULBS(whatever electrical appliances you may prefer)
+10. Arduino IDE
 
 # Flashing ESP8266 with blynk code:
 
@@ -47,6 +48,9 @@ Here you can check how to set up an IFTTT account -  "https://ifttt.com"
  Select "WEBHOOKS" as your action service.
  Make a web request and fill the form like the screenshot beow.
  (Note: you will get an individual Auth key after you had created a button on BLynk app. It would be send to the account with which you had signed up on BLynk for eg: gmail.com)
+ (Note: For URL, enter as follows : http://188.166.20.43/yourauthkey/update/d1(your_arduino_pin)
+ 
+ ![alt](https://github.com/4vedi/VOICE-CONTROLLED-HOME-AUTOMATION/blob/master/IMG_20160525_160913-2.jpg?raw=true)
  
 
 
