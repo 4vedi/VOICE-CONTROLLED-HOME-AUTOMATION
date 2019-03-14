@@ -28,9 +28,26 @@ Here you can check how to set up an IFTTT account -  "https://ifttt.com"
 
  # Configuring Blynk and IFTTT
  
- After setting up your Blynk account create a new button. You can directly turn on or off with this button(your appliance should be connected to d1 port . Note: d1 differs for Arduino Uno and Nodemcu soit needs to be converted as we are working on Nodemcu.) 
+ After setting up your Blynk account create a new button. You can directly turn on or off with this button(your appliance should be connected to d1 port . Note: d1 differs for Arduino Uno and Nodemcu so it needs to be converted as we are working on Nodemcu.) 
  
  ![alt](https://github.com/4vedi/VOICE-CONTROLLED-HOME-AUTOMATION/blob/master/Screenshot_2019-03-13-23-54-21-841_cc.blynk.png?raw=true)
+ 
+ 
+ 
+ 
+ 
+ 
+ IFTTT Configuration:
+ 
+ Download and install IFTTT app on your android device.
+ Set up your IFTTT account
+ Create a new applet
+ select "OK GOOGLE" as your trigger
+ complete the phrase parts according to your needs.
+ Select "WEBHOOKS" as your action service.
+ Make a web request and fill the form like the screenshot beow.
+ (Note: you will get an individual Auth key after you had created a button on BLynk app. It would be send to the account with which you had signed up on BLynk for eg: gmail.com)
+ 
 
 
 # Preparing Your Circuit
